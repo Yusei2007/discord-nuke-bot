@@ -1,2 +1,2 @@
 # discord-nuke-bot
->help 
+>>help 
